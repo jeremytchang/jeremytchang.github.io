@@ -51,7 +51,7 @@
     }
   ],
   "api_server_url": "https://self-signed.looker.com:19999",
-  "headless": true,
+  "headless": false,
   "current_version": {
     "version": "21.18 3.1",
     "full_version": "3.1.21.18",
