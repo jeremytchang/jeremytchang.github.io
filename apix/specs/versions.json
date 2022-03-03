@@ -53,7 +53,7 @@
   "api_server_url": "https://self-signed.looker.com:19999",
   "headless": true,
   "current_version": {
-    "version": "4.0",
+    "version": "3.1",
     "full_version": "4.0.22.2",
     "status": "beta",
     "swagger_url": "/apix/specs/api_22.2.4.0.json"
